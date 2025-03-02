@@ -24,7 +24,7 @@ int main() {
   return 0;
 }
 
-####Or
+/////Or
 #include <iostream>
 using namespace std;
 
